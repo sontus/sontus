@@ -68,5 +68,5 @@
 ## Github Stats:
 
 ![Sontus Chandra Anik GitHub stats](https://github-readme-stats.vercel.app/api?username=sontus&show_icons=true&theme=default)
-© 2022 GitHub, Inc.
+
 
