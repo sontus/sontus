@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-<a href="https://github.com/sontus/"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20MERN%20Stack%20Web%20Developer;Self-Taught%20Learner;1%2B%20Years%20of%20Coding%20Experience;Determind%20to%20Learn%20New%20Things&center=true&width=350&height=45&color=808080"></a>
+<a href="https://github.com/sontus/"><img src="https://readme-typing-svg.herokuapp.com?color=%231A3EF7&size=18&lines=A+MERN+Stack+Developer.+;3%2B+Years+Working+Experience.+)](https://git.io/typing-svg"></a>
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
 
