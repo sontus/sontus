@@ -6,9 +6,8 @@
 <p align="center">
 <a href="https://github.com/sontus/"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20MERN%20Stack%20Web%20Developer;Self-Taught%20Learner;1%2B%20Years%20of%20Coding%20Experience;Determind%20to%20Learn%20New%20Things&center=true&width=350&height=45&color=808080"></a>
 </p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ruhulaminjr/ruhulaminjr/main/code.gif" height= "350" width="50%"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
 
-![](https://komarev.com/ghpvc/?username=ruhulaminjr&color=05B6D3&style=flat-square&label=PROFILE+VIEWS)
 
 ## About Me:
 
@@ -21,7 +20,9 @@
 ## Connect with me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://sontus.info/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/anik.cse.mym/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sontus-chandra-anik/)
+
 
 
 ---
@@ -30,9 +31,9 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-8712FB?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -49,9 +50,9 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -60,7 +61,7 @@
 
 ## Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sontus&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sontus&layout=compact)
 
 ---
 
@@ -68,14 +69,4 @@
 
 ![Sontus Chandra Anik GitHub stats](https://github-readme-stats.vercel.app/api?username=sontus&show_icons=true&theme=default)
 © 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
