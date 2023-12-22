@@ -4,17 +4,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-<a href="https://github.com/sontus/"><img src="https://readme-typing-svg.herokuapp.com?color=%231A3EF7&size=18&lines=A+MERN+Stack+Developer.+;3%2B+Years+Working+Experience.+)](https://git.io/typing-svg"></a>
+<a href="https://github.com/sontus/"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CE51&random=false&width=435&lines=I+Am+a+Full+Stack+Developer.;+I+have+4%2B+years+;on+Software+Development+Sector." alt="Typing SVG" /></a>
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sontus/sontus/main/code.gif" height= "350" width="50%"/>
 
 
 ## About Me:
 
-- 📙 I am a **Full Stack MERN DEVELOPER**
-- 🌱 I'm currently learning `React Naive`
+- 📙 I am a **Full Stack Developer**
+- 🌱 I'm currently learning `Python`
 - ⌨️ Most used line of code `console.log()`
-- 🥅 2022 Goals: Learn **Software Enginner**
+- 🥅 2024 Goals: Learn **Software Engineer**
 - 📧 Mail: info.sontus@gmail.com
 
 ## Connect with me:
